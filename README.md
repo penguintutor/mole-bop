@@ -38,3 +38,6 @@ The rest of the explanations relate to the Mole Bop game.
 
 * Press any key to restart the game
 
+## More Information 
+
+For more details see: [PenguinTutor Raspberry Pi Pico Mole Bop Game](https://www.penguintutor.com/projects/molebopgame)
